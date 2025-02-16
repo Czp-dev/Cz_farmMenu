@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'TonNom'
+author 'cz'
 description 'Système de récolte et vente de pêches'
 version '1.0.0'
 
