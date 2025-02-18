@@ -12,8 +12,6 @@ shared_scripts {
     '@ox_lib/init.lua',
     '@es_extended/imports.lua',
 
-
-    --- RageUI
     "RageUI/RMenu.lua",
     "RageUI/menu/RageUI.lua",
     "RageUI/menu/Menu.lua",
